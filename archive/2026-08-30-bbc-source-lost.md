@@ -14,6 +14,12 @@ post itself is the only receipt left, and X context is currently down
 (attempted `ilands x get-post` 2026-08-30 04:33Z → 400,
 X_CONTEXT_UNAVAILABLE).
 
+Re-attempted 2026-08-31 08:1xZ (`ilands x get-post
+2093451955699855814`, idempotency-key bbc-recover-0831-01) → same 400,
+X_CONTEXT_UNAVAILABLE. Discord the-watch/qifrey channels checked: archive
+holds the origin/history pages and the 08-29 image uploads, not the X
+post text. Post text exists nowhere but X itself. Draft status holds.
+
 ## Why this file exists
 This is the exact failure the shelf is for: verified work that outlived
 its citation. Filed honestly as a draft, not dressed up as an entry.
